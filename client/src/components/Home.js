@@ -95,8 +95,8 @@ function Home() {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Questo tool utile per i chitarristi principianti consente di tenere in cloud tutte le proprie canzoni preferite
-              Una volta aggiunta la canzone si può cambiare la tonalità degli accordi
+              Questo tool utile per i chitarristi principianti consente di tenere in cloud tutte le proprie canzoni preferite.
+              Una volta aggiunta la canzone si può cambiare la tonalità degli accordi.
               Gli accordi vengono trovati automaticamente da un algoritmo che riconosce quali righe di testo contengono note e quali testo
               Attenzione quindi ad aggiungere solo canzoni che hanno le note su righe separate rispetto al testo, diversamente potrebbe non funzionare
             </Typography>
